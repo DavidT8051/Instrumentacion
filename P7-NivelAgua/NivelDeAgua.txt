@@ -1,0 +1,1 @@
+Practica en la que se usa el sensor ultrasonico HC-SR04 para medir indirectamente el volumen conteni en un recipiente usando Labview.
